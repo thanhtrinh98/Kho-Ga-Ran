@@ -1,0 +1,118 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\CNPM nhóm 1.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\CNPM nhóm 1.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\CNPM nhóm 1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.DMKhachHang.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\Lớp BUS.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\Lớp DAL.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\Lớp Entites.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\Lớp BUS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\Lớp DAL.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\Lớp Entites.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.DangNhap.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.DMHangHoa.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.DMNhaCungCap.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.Phiếu_Nhập.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.Phiếu_Xuất.resources
+C:\Users\I Love LA\Google Drive\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\CNPM nhóm 1.exe.config
+C:\Users\I Love LA\Google Drive\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.exe
+C:\Users\I Love LA\Google Drive\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.pdb
+C:\Users\I Love LA\Google Drive\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\CNPM nhóm 1.exe
+C:\Users\I Love LA\Google Drive\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\CNPM nhóm 1.pdb
+C:\Users\I Love LA\Google Drive\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\Lớp BUS.pdb
+C:\Users\I Love LA\Google Drive\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\Lớp DAL.pdb
+C:\Users\I Love LA\Google Drive\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\Lớp Entites.pdb
+C:\Users\I Love LA\Google Drive\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.csprojResolveAssemblyReference.cache
+C:\Users\I Love LA\Google Drive\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.DangNhap.resources
+C:\Users\I Love LA\Google Drive\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.DMHangHoa.resources
+C:\Users\I Love LA\Google Drive\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.DMKhachHang.resources
+C:\Users\I Love LA\Google Drive\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.DMNhaCungCap.resources
+C:\Users\I Love LA\Google Drive\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.Form1.resources
+C:\Users\I Love LA\Google Drive\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.Phiếu_Nhập.resources
+C:\Users\I Love LA\Google Drive\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.Phiếu_Xuất.resources
+C:\Users\I Love LA\Google Drive\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.Properties.Resources.resources
+C:\Users\I Love LA\Google Drive\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.csproj.GenerateResource.Cache
+C:\Users\I Love LA\Google Drive\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.QuanLyTaiKhoan.resources
+D:\CNPM\share code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\CNPM nhóm 1.exe.config
+D:\CNPM\share code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.exe
+D:\CNPM\share code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.pdb
+D:\CNPM\share code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\CNPM nhóm 1.exe
+D:\CNPM\share code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\CNPM nhóm 1.pdb
+D:\CNPM\share code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\Lớp BUS.pdb
+D:\CNPM\share code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\Lớp DAL.pdb
+D:\CNPM\share code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\Lớp Entites.pdb
+D:\CNPM\share code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.csprojResolveAssemblyReference.cache
+D:\CNPM\share code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.DangNhap.resources
+D:\CNPM\share code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.DMHangHoa.resources
+D:\CNPM\share code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.DMKhachHang.resources
+D:\CNPM\share code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.DMNhaCungCap.resources
+D:\CNPM\share code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.Form1.resources
+D:\CNPM\share code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.Phiếu_Nhập.resources
+D:\CNPM\share code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.Phiếu_Xuất.resources
+D:\CNPM\share code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.Properties.Resources.resources
+D:\CNPM\share code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.QuanLyTaiKhoan.resources
+D:\CNPM\share code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.csproj.GenerateResource.Cache
+D:\CNPM\code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\CNPM nhóm 1.exe.config
+D:\CNPM\code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.exe
+D:\CNPM\code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.pdb
+D:\CNPM\code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\CNPM nhóm 1.exe
+D:\CNPM\code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\CNPM nhóm 1.pdb
+D:\CNPM\code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\Lớp BUS.pdb
+D:\CNPM\code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\Lớp DAL.pdb
+D:\CNPM\code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\Lớp Entites.pdb
+D:\CNPM\code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.csprojResolveAssemblyReference.cache
+D:\CNPM\code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.DangNhap.resources
+D:\CNPM\code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.DMHangHoa.resources
+D:\CNPM\code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.DMKhachHang.resources
+D:\CNPM\code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.DMNhaCungCap.resources
+D:\CNPM\code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.Form1.resources
+D:\CNPM\code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.Phiếu_Nhập.resources
+D:\CNPM\code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.Phiếu_Xuất.resources
+D:\CNPM\code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.Properties.Resources.resources
+D:\CNPM\code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.QuanLyTaiKhoan.resources
+D:\CNPM\code\CNPM-nhóm-1\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.csproj.GenerateResource.Cache
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\CNPM nhóm 1.exe.config
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.exe
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.pdb
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\CNPM nhóm 1.exe
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\CNPM nhóm 1.pdb
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\Lớp BUS.pdb
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\Lớp DAL.pdb
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\Lớp Entites.pdb
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.csprojResolveAssemblyReference.cache
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.DangNhap.resources
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.DMHangHoa.resources
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.DMKhachHang.resources
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.DMNhaCungCap.resources
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.Form1.resources
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.Phiếu_Nhập.resources
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.Phiếu_Xuất.resources
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.Properties.Resources.resources
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.QuanLyTaiKhoan.resources
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.csproj.GenerateResource.Cache
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\kho hang nhom 11\CNPM nhóm 1\bin\Debug\CNPM nhóm 1.exe.config
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\kho hang nhom 11\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.exe
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\kho hang nhom 11\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.pdb
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\kho hang nhom 11\CNPM nhóm 1\bin\Debug\CNPM nhóm 1.exe
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\kho hang nhom 11\CNPM nhóm 1\bin\Debug\CNPM nhóm 1.pdb
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\kho hang nhom 11\CNPM nhóm 1\bin\Debug\Lớp BUS.pdb
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\kho hang nhom 11\CNPM nhóm 1\bin\Debug\Lớp DAL.pdb
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\kho hang nhom 11\CNPM nhóm 1\bin\Debug\Lớp Entites.pdb
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\kho hang nhom 11\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.DangNhap.resources
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\kho hang nhom 11\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.DMHangHoa.resources
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\kho hang nhom 11\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.DMKhachHang.resources
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\kho hang nhom 11\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.DMNhaCungCap.resources
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\kho hang nhom 11\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.Form1.resources
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\kho hang nhom 11\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.Phiếu_Nhập.resources
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\kho hang nhom 11\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.Phiếu_Xuất.resources
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\kho hang nhom 11\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.Properties.Resources.resources
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\kho hang nhom 11\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.QuanLyTaiKhoan.resources
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\kho hang nhom 11\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.csproj.GenerateResource.Cache
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\kho hang nhom 11\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.csprojAssemblyReference.cache
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\kho hang nhom 11\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.csproj.CoreCompileInputs.cache
+C:\Users\Thanh\Desktop\Code quản lý kho hàng C#\kho hang nhom 11\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.csproj.CopyComplete
